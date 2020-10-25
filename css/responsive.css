@@ -1,0 +1,23 @@
+/*---Media Queries--*/
+
+@media (max-width: 992px){
+	
+}
+@media (max-width: 768px){
+	.nav-top .navbar-collapse 
+	{
+	    display: flex;
+	}
+	.service h4
+	{
+		margin-top: 1.4rem;
+	}
+}
+
+@media (max-width: 576px){
+	
+
+}
+@media (max-width: 276px){
+
+}
